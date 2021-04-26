@@ -99,4 +99,9 @@ All json samples are shared on "ticket_system.postman_collection.json" file on t
                         
   c- Cancel ticket         - POST /v1/ticket/{pnrCode}/cancel
   
+# properties
+
+1.  application.properties: H2 database created. Database will be deleted on every rerun appllication
+
+2.  errorMessages.properties: Error message lists are used for throw exceptions on JSON response.
       
