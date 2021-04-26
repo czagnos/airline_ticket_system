@@ -6,6 +6,7 @@ This application runs with JSON reuqests.
 
 # endpoints
 
+All json samples are shared on "ticket_system.postman_collection.json" file on the repository. You can easily use with postman application.
 
 1- Airport
 
