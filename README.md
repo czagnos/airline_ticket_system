@@ -3,6 +3,9 @@
 This is a airline ticket system spring application.
 This application runs with JSON reuqests.
 
+# prerequisites
+
+There is no specific prerequisite to run application. After open project in any IDE, It can run directly with local server.
 
 # endpoints
 
