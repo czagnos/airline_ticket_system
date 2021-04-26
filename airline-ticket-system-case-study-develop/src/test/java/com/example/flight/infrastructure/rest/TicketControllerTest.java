@@ -1,7 +1,6 @@
 package com.example.flight.infrastructure.rest;
 
 
-import com.example.flight.application.manager.MemberManager;
 import com.example.flight.application.manager.TicketManager;
 import org.junit.Before;
 import org.junit.Test;
